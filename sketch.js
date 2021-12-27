@@ -8,11 +8,11 @@ let pic1, pic2, pic3, pic4, pic5;
 
 
 function preload() {
-  pic1 = loadImage('https://assets.editor.p5js.org/5f6037057e3ef10024921307/e4897d8b-ad92-479a-82ac-697ca3befc1b.png');
-  pic2 = loadImage('https://assets.editor.p5js.org/5f6037057e3ef10024921307/8719df6d-c1ae-440a-ae0c-adfe2cdaddab.png');
-  pic3 = loadImage('https://assets.editor.p5js.org/5f6037057e3ef10024921307/b2ca9832-a459-4960-b86a-eefcb96ea575.png');
-  pic4 = loadImage('https://assets.editor.p5js.org/5f6037057e3ef10024921307/37b69cce-0a27-4272-b3df-e5cb49ec0ae7.png');
-  pic5 = loadImage('https://assets.editor.p5js.org/5f6037057e3ef10024921307/640db512-8dba-4f63-a93b-2aa6d2dcf369.png');
+  pic1 = loadImage('https://raw.githubusercontent.com/candideu/403-forbidden-moving-logo/main/pic%201.png');
+  pic2 = loadImage('https://github.com/candideu/403-forbidden-moving-logo/blob/main/pic%202.png');
+  pic3 = loadImage('https://github.com/candideu/403-forbidden-moving-logo/blob/main/pic%203.png?raw=true');
+  pic4 = loadImage('https://github.com/candideu/403-forbidden-moving-logo/blob/main/pic%204.png');
+  pic5 = loadImage('https://github.com/candideu/403-forbidden-moving-logo/blob/main/pic%205.png?raw=true');
 }
 
 function setup() {
