@@ -9,10 +9,10 @@ let pic1, pic2, pic3, pic4, pic5;
 
 function preload() {
   pic1 = loadImage('https://raw.githubusercontent.com/candideu/403-forbidden-moving-logo/main/pic%201.png');
-  pic2 = loadImage('https://github.com/candideu/403-forbidden-moving-logo/blob/main/pic%202.png');
-  pic3 = loadImage('https://github.com/candideu/403-forbidden-moving-logo/blob/main/pic%203.png?raw=true');
-  pic4 = loadImage('https://github.com/candideu/403-forbidden-moving-logo/blob/main/pic%204.png');
-  pic5 = loadImage('https://github.com/candideu/403-forbidden-moving-logo/blob/main/pic%205.png?raw=true');
+  pic2 = loadImage('https://raw.githubusercontent.com/candideu/403-forbidden-moving-logo/main/pic%202.png');
+  pic3 = loadImage('https://raw.githubusercontent.com/candideu/403-forbidden-moving-logo/main/pic%203.png');
+  pic4 = loadImage('https://raw.githubusercontent.com/candideu/403-forbidden-moving-logo/main/pic%204.png');
+  pic5 = loadImage('https://raw.githubusercontent.com/candideu/403-forbidden-moving-logo/main/pic%205.png');
 }
 
 function setup() {
