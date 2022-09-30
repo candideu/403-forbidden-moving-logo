@@ -23,7 +23,7 @@ function setup() {
 function draw() {
   clear();
 
-  let scaleFactor = width / 1000;
+  let scaleFactor = width / 1500;
 
   //if mouse is on the left or right side
 
